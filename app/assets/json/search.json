@@ -1,0 +1,556 @@
+ [
+        {
+            "id": 10279785,
+            "userState": "active",
+            "name": {
+                "first": "Dev",
+                "last": "test",
+                "middle": null
+            },
+            "screenNames": null,
+            "birthDate": null,
+            "zipCode": "60108",
+            "associateNumber": null,
+            "password": null,
+            "status": "false",
+            "openidtype": "2",
+            "openIdInfo": {
+                "openIdInfoDetailList": []
+            },
+            "title": "",
+            "gender": "Unknown",
+            "mobileType": "",
+            "userEmails": {
+                "emailList": [
+                    "devtest@automation.com"
+                ]
+            },
+            "phones": {
+                "phoneList": []
+            },
+            "loyaltys": {
+                "loyaltyList": [
+                    {
+                        "type": "SYWR",
+                        "typeID": 0,
+                        "number": "7081420000259744",
+                        "linkStatusCode": 1,
+                        "linkVerifyURL": null,
+                        "sywrEmail": null,
+                        "linkRemovalUrl": null
+                    }
+                ]
+            },
+            "creationDate": "2014-12-12 02:14:16.0",
+            "field1": null,
+            "field2": null,
+            "field3": null,
+            "requestApproval": false,
+            "userLogonName": "devtest@automation.com",
+            "authToken": null,
+            "sourceSiteId": "3",
+            "failedAuthAttempts": 0,
+            "salt": null,
+            "oldPassword": null,
+            "openidtypeint": 2,
+            "noBirthDate": null
+        },{
+            "id": 10279785,
+            "userState": "active",
+            "name": {
+                "first": "Dev",
+                "last": "test",
+                "middle": null
+            },
+            "screenNames": null,
+            "birthDate": null,
+            "zipCode": "60108",
+            "associateNumber": null,
+            "password": null,
+            "status": "false",
+            "openidtype": "2",
+            "openIdInfo": {
+                "openIdInfoDetailList": []
+            },
+            "title": "",
+            "gender": "Unknown",
+            "mobileType": "",
+            "userEmails": {
+                "emailList": [
+                    "devtest@automation.com"
+                ]
+            },
+            "phones": {
+                "phoneList": []
+            },
+            "loyaltys": {
+                "loyaltyList": [
+                    {
+                        "type": "SYWR",
+                        "typeID": 0,
+                        "number": "7081420000259744",
+                        "linkStatusCode": 1,
+                        "linkVerifyURL": null,
+                        "sywrEmail": null,
+                        "linkRemovalUrl": null
+                    }
+                ]
+            },
+            "creationDate": "2014-12-12 02:14:16.0",
+            "field1": null,
+            "field2": null,
+            "field3": null,
+            "requestApproval": false,
+            "userLogonName": "devtest@automation.com",
+            "authToken": null,
+            "sourceSiteId": "3",
+            "failedAuthAttempts": 0,
+            "salt": null,
+            "oldPassword": null,
+            "openidtypeint": 2,
+            "noBirthDate": null
+        },{
+            "id": 10279785,
+            "userState": "active",
+            "name": {
+                "first": "Dev",
+                "last": "test",
+                "middle": null
+            },
+            "screenNames": null,
+            "birthDate": null,
+            "zipCode": "60108",
+            "associateNumber": null,
+            "password": null,
+            "status": "false",
+            "openidtype": "2",
+            "openIdInfo": {
+                "openIdInfoDetailList": []
+            },
+            "title": "",
+            "gender": "Unknown",
+            "mobileType": "",
+            "userEmails": {
+                "emailList": [
+                    "devtest@automation.com"
+                ]
+            },
+            "phones": {
+                "phoneList": []
+            },
+            "loyaltys": {
+                "loyaltyList": [
+                    {
+                        "type": "SYWR",
+                        "typeID": 0,
+                        "number": "7081420000259744",
+                        "linkStatusCode": 1,
+                        "linkVerifyURL": null,
+                        "sywrEmail": null,
+                        "linkRemovalUrl": null
+                    }
+                ]
+            },
+            "creationDate": "2014-12-12 02:14:16.0",
+            "field1": null,
+            "field2": null,
+            "field3": null,
+            "requestApproval": false,
+            "userLogonName": "devtest@automation.com",
+            "authToken": null,
+            "sourceSiteId": "3",
+            "failedAuthAttempts": 0,
+            "salt": null,
+            "oldPassword": null,
+            "openidtypeint": 2,
+            "noBirthDate": null
+        },{
+            "id": 10279785,
+            "userState": "active",
+            "name": {
+                "first": "Dev",
+                "last": "test",
+                "middle": null
+            },
+            "screenNames": null,
+            "birthDate": null,
+            "zipCode": "60108",
+            "associateNumber": null,
+            "password": null,
+            "status": "false",
+            "openidtype": "2",
+            "openIdInfo": {
+                "openIdInfoDetailList": []
+            },
+            "title": "",
+            "gender": "Unknown",
+            "mobileType": "",
+            "userEmails": {
+                "emailList": [
+                    "devtest@automation.com"
+                ]
+            },
+            "phones": {
+                "phoneList": []
+            },
+            "loyaltys": {
+                "loyaltyList": [
+                    {
+                        "type": "SYWR",
+                        "typeID": 0,
+                        "number": "7081420000259744",
+                        "linkStatusCode": 1,
+                        "linkVerifyURL": null,
+                        "sywrEmail": null,
+                        "linkRemovalUrl": null
+                    }
+                ]
+            },
+            "creationDate": "2014-12-12 02:14:16.0",
+            "field1": null,
+            "field2": null,
+            "field3": null,
+            "requestApproval": false,
+            "userLogonName": "devtest@automation.com",
+            "authToken": null,
+            "sourceSiteId": "3",
+            "failedAuthAttempts": 0,
+            "salt": null,
+            "oldPassword": null,
+            "openidtypeint": 2,
+            "noBirthDate": null
+        },{
+            "id": 10279785,
+            "userState": "active",
+            "name": {
+                "first": "Dev",
+                "last": "test",
+                "middle": null
+            },
+            "screenNames": null,
+            "birthDate": null,
+            "zipCode": "60108",
+            "associateNumber": null,
+            "password": null,
+            "status": "false",
+            "openidtype": "2",
+            "openIdInfo": {
+                "openIdInfoDetailList": []
+            },
+            "title": "",
+            "gender": "Unknown",
+            "mobileType": "",
+            "userEmails": {
+                "emailList": [
+                    "devtest@automation.com"
+                ]
+            },
+            "phones": {
+                "phoneList": []
+            },
+            "loyaltys": {
+                "loyaltyList": [
+                    {
+                        "type": "SYWR",
+                        "typeID": 0,
+                        "number": "7081420000259744",
+                        "linkStatusCode": 1,
+                        "linkVerifyURL": null,
+                        "sywrEmail": null,
+                        "linkRemovalUrl": null
+                    }
+                ]
+            },
+            "creationDate": "2014-12-12 02:14:16.0",
+            "field1": null,
+            "field2": null,
+            "field3": null,
+            "requestApproval": false,
+            "userLogonName": "devtest@automation.com",
+            "authToken": null,
+            "sourceSiteId": "3",
+            "failedAuthAttempts": 0,
+            "salt": null,
+            "oldPassword": null,
+            "openidtypeint": 2,
+            "noBirthDate": null
+        },{
+            "id": 10279785,
+            "userState": "active",
+            "name": {
+                "first": "Dev",
+                "last": "test",
+                "middle": null
+            },
+            "screenNames": null,
+            "birthDate": null,
+            "zipCode": "60108",
+            "associateNumber": null,
+            "password": null,
+            "status": "false",
+            "openidtype": "2",
+            "openIdInfo": {
+                "openIdInfoDetailList": []
+            },
+            "title": "",
+            "gender": "Unknown",
+            "mobileType": "",
+            "userEmails": {
+                "emailList": [
+                    "devtest@automation.com"
+                ]
+            },
+            "phones": {
+                "phoneList": []
+            },
+            "loyaltys": {
+                "loyaltyList": [
+                    {
+                        "type": "SYWR",
+                        "typeID": 0,
+                        "number": "7081420000259744",
+                        "linkStatusCode": 1,
+                        "linkVerifyURL": null,
+                        "sywrEmail": null,
+                        "linkRemovalUrl": null
+                    }
+                ]
+            },
+            "creationDate": "2014-12-12 02:14:16.0",
+            "field1": null,
+            "field2": null,
+            "field3": null,
+            "requestApproval": false,
+            "userLogonName": "devtest@automation.com",
+            "authToken": null,
+            "sourceSiteId": "3",
+            "failedAuthAttempts": 0,
+            "salt": null,
+            "oldPassword": null,
+            "openidtypeint": 2,
+            "noBirthDate": null
+        },{
+            "id": 10279785,
+            "userState": "active",
+            "name": {
+                "first": "Dev",
+                "last": "test",
+                "middle": null
+            },
+            "screenNames": null,
+            "birthDate": null,
+            "zipCode": "60108",
+            "associateNumber": null,
+            "password": null,
+            "status": "false",
+            "openidtype": "2",
+            "openIdInfo": {
+                "openIdInfoDetailList": []
+            },
+            "title": "",
+            "gender": "Unknown",
+            "mobileType": "",
+            "userEmails": {
+                "emailList": [
+                    "devtest@automation.com"
+                ]
+            },
+            "phones": {
+                "phoneList": []
+            },
+            "loyaltys": {
+                "loyaltyList": [
+                    {
+                        "type": "SYWR",
+                        "typeID": 0,
+                        "number": "7081420000259744",
+                        "linkStatusCode": 1,
+                        "linkVerifyURL": null,
+                        "sywrEmail": null,
+                        "linkRemovalUrl": null
+                    }
+                ]
+            },
+            "creationDate": "2014-12-12 02:14:16.0",
+            "field1": null,
+            "field2": null,
+            "field3": null,
+            "requestApproval": false,
+            "userLogonName": "devtest@automation.com",
+            "authToken": null,
+            "sourceSiteId": "3",
+            "failedAuthAttempts": 0,
+            "salt": null,
+            "oldPassword": null,
+            "openidtypeint": 2,
+            "noBirthDate": null
+        },
+        {
+            "id": 10279785,
+            "userState": "active",
+            "name": {
+                "first": "Dev",
+                "last": "test",
+                "middle": null
+            },
+            "screenNames": null,
+            "birthDate": null,
+            "zipCode": "60108",
+            "associateNumber": null,
+            "password": null,
+            "status": "false",
+            "openidtype": "2",
+            "openIdInfo": {
+                "openIdInfoDetailList": []
+            },
+            "title": "",
+            "gender": "Unknown",
+            "mobileType": "",
+            "userEmails": {
+                "emailList": [
+                    "devtest@automation.com"
+                ]
+            },
+            "phones": {
+                "phoneList": []
+            },
+            "loyaltys": {
+                "loyaltyList": [
+                    {
+                        "type": "SYWR",
+                        "typeID": 0,
+                        "number": "7081420000259744",
+                        "linkStatusCode": 1,
+                        "linkVerifyURL": null,
+                        "sywrEmail": null,
+                        "linkRemovalUrl": null
+                    }
+                ]
+            },
+            "creationDate": "2014-12-12 02:14:16.0",
+            "field1": null,
+            "field2": null,
+            "field3": null,
+            "requestApproval": false,
+            "userLogonName": "devtest@automation.com",
+            "authToken": null,
+            "sourceSiteId": "3",
+            "failedAuthAttempts": 0,
+            "salt": null,
+            "oldPassword": null,
+            "openidtypeint": 2,
+            "noBirthDate": null
+        },
+        {
+            "id": 10279785,
+            "userState": "active",
+            "name": {
+                "first": "Dev",
+                "last": "test",
+                "middle": null
+            },
+            "screenNames": null,
+            "birthDate": null,
+            "zipCode": "60108",
+            "associateNumber": null,
+            "password": null,
+            "status": "false",
+            "openidtype": "2",
+            "openIdInfo": {
+                "openIdInfoDetailList": []
+            },
+            "title": "",
+            "gender": "Unknown",
+            "mobileType": "",
+            "userEmails": {
+                "emailList": [
+                    "devtest@automation.com"
+                ]
+            },
+            "phones": {
+                "phoneList": []
+            },
+            "loyaltys": {
+                "loyaltyList": [
+                    {
+                        "type": "SYWR",
+                        "typeID": 0,
+                        "number": "7081420000259744",
+                        "linkStatusCode": 1,
+                        "linkVerifyURL": null,
+                        "sywrEmail": null,
+                        "linkRemovalUrl": null
+                    }
+                ]
+            },
+            "creationDate": "2014-12-12 02:14:16.0",
+            "field1": null,
+            "field2": null,
+            "field3": null,
+            "requestApproval": false,
+            "userLogonName": "devtest@automation.com",
+            "authToken": null,
+            "sourceSiteId": "3",
+            "failedAuthAttempts": 0,
+            "salt": null,
+            "oldPassword": null,
+            "openidtypeint": 2,
+            "noBirthDate": null
+        },
+        {
+            "id": 10279785,
+            "userState": "active",
+            "name": {
+                "first": "Dev",
+                "last": "test",
+                "middle": null
+            },
+            "screenNames": null,
+            "birthDate": null,
+            "zipCode": "60108",
+            "associateNumber": null,
+            "password": null,
+            "status": "false",
+            "openidtype": "2",
+            "openIdInfo": {
+                "openIdInfoDetailList": []
+            },
+            "title": "",
+            "gender": "Unknown",
+            "mobileType": "",
+            "userEmails": {
+                "emailList": [
+                    "devtest@automation.com"
+                ]
+            },
+            "phones": {
+                "phoneList": []
+            },
+            "loyaltys": {
+                "loyaltyList": [
+                    {
+                        "type": "SYWR",
+                        "typeID": 0,
+                        "number": "7081420000259744",
+                        "linkStatusCode": 1,
+                        "linkVerifyURL": null,
+                        "sywrEmail": null,
+                        "linkRemovalUrl": null
+                    }
+                ]
+            },
+            "creationDate": "2014-12-12 02:14:16.0",
+            "field1": null,
+            "field2": null,
+            "field3": null,
+            "requestApproval": false,
+            "userLogonName": "devtest@automation.com",
+            "authToken": null,
+            "sourceSiteId": "3",
+            "failedAuthAttempts": 0,
+            "salt": null,
+            "oldPassword": null,
+            "openidtypeint": 2,
+            "noBirthDate": null
+        }
+    ]

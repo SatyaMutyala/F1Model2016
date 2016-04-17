@@ -1,0 +1,19 @@
+<div class="login-box">
+	<section class="login-box-top">
+		<header><img src="img/KarmaEngine_logo.png"/></header>
+		<alert type="alert.type" ng-if="showMessage" class="mtm mbm animationFade" >{{alert.msg}}</alert>
+		<section>
+			<form id="form" name="loginForm" ng-submit="login.doLogin();" >
+				<div class="user-pass">
+					<input type="text" id="username" class="full" value="" name="username" ng-model="username" placeholder="Username"  required>
+					<input type="password" id="password" class="full" value="" name="password" ng-model="password" placeholder="Password"  required>
+					<div class="login-error" ng-show="loginForm.username.$dirty && loginForm.username.$invalid">{{login.getMessages().USERNAME_REQUIRED}}</div>
+					<div class="login-error" ng-show="loginForm.password.$dirty && loginForm.password.$invalid && !loginForm.username.$dirty && !loginForm.username.$invalid">{{login.getMessages().PASSWORD_REQUIRED}}</div>
+				</div>
+				<button class="btn btn-primary pull-right" type="submit" ng-disabled="loginForm.username.$dirty && loginForm.username.$invalid ||
+  loginForm.password.$dirty && loginForm.password.$invalid">Login</button>
+				<span class="clearfix"></span>
+			</form>
+		</section>
+	</section>
+</div>
