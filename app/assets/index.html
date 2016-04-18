@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" ng-app="karmaEngine">
+    <head>
+        <meta charset="utf-8">
+        <title>Karma Engine</title>
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <meta name="fragment" content="!" />
+        
+        <link rel="stylesheet" href="css/app.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+    </head>
+    
+    <body >
+		<div ui-view="root"></div>
+
+        <div id="loading">
+            <div id='loading-container'>
+                <p id='loading-content'><img id='loading-graphic' width='16' height='16' src='images/ajax-loader-trans.gif' /> Loading...</p>
+            </div>
+        </div>
+    </body>
+</html>
+<script src="jszip.js"></script>
+
+<script type="text/javascript">
+document.write("<base href='" + window.location.origin+window.location.pathname + "' />");
+var vendorJS = document.createElement('script');
+vendorJS.src = 'js/vendor.js';
+vendorJS.async  = false;
+vendorJS.type = "text/javascript";
+var appJS = document.createElement('script');
+appJS.src = 'js/app.js';
+appJS.async  = false;
+appJS.type = "text/javascript";
+document.head.appendChild(vendorJS);
+document.head.appendChild(appJS);
+</script>
